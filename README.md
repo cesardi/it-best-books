@@ -1,7 +1,7 @@
 * [Big Data: Principles and best practices of scalable realtime data systems](https://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
 * [The C++ Programming Language, 4th Edition](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
 * [Effective Java (2nd Edition)](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683)
-* [https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
+* [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
 * [Hibernate in Action](https://www.amazon.com/Hibernate-Action-Christian-Bauer/dp/193239415X)
 * [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
 * [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
