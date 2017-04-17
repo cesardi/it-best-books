@@ -13,3 +13,4 @@
 * [Programming in Scala: Updated for Scala 2.12](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687)
 * [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
 * [Functional and Reactive Domain Modeling](https://www.amazon.com/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
