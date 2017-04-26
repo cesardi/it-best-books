@@ -15,3 +15,4 @@
 * [Functional and Reactive Domain Modeling](https://www.amazon.com/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 * [Reactive Design Patterns](https://www.amazon.com/Reactive-Design-Patterns-Roland-Kuhn/dp/1617291803)
+* [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
